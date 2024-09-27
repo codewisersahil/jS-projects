@@ -5,6 +5,7 @@ accountCity ="pune"
 String
 dj
 performance
+o
 
 /*
 always prefer to use const and let beacause of scope 
