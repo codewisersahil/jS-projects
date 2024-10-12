@@ -14,5 +14,9 @@ console.log('nan');
 console.log('s');
 console.log('');
 console.log('sahil');
+console.log()
+console.log();
+;
+
 
 
