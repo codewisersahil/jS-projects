@@ -17,6 +17,25 @@ console.log('sahil');
 console.log()
 console.log();
 ;
+console.log(
+    console.log()
+    console.log();
+    ;
+    console.log();
+    
+
+    console.log();
+    
+    
+
+);
+console.log(
+
+
+);
+
+
+locationbarlog
 
 
 
